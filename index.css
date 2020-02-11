@@ -66,3 +66,43 @@ body {
       font-style: normal;
       font-family: "Times New Roman", Times, serif
   }
+
+  p.Str1
+  {
+      font-size: 100% ;
+      border: mediumspringgreen;
+      border-style: dotted;
+      width: 65px;
+  }
+
+  p.Str2
+  {
+    font-size: 120% ;
+      border: mediumblue;
+      border-style: double;
+      width: 75px;
+  }
+
+  p.Str3
+  {
+    font-size: 140%;
+      border: mediumorchid;
+      border-style: ridge;
+      width: 85px;
+  }
+
+  p.Str4
+  {
+    font-size: 160% ;
+      border: mediumpurple;
+      border-style: groove;
+      width: 100px;
+  }
+
+  p.Str5
+  {
+    font-size: 180% ;
+      border: mediumvioletred;
+      border-style: dashed;
+      width: 115px;
+  }
