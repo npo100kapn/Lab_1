@@ -106,3 +106,74 @@ body {
       border-style: dashed;
       width: 115px;
   }
+ 
+  a.lnk_1:link {
+    color: red;
+  }
+
+  a.lnk_1:visited {
+    color: green;
+  }
+  
+  a.lnk_1:hover {
+    color: hotpink;
+  }
+  
+  a.lnk_1:active {
+    color: blue;
+  }
+
+  a.lnk_2:link {
+    color: lightcoral;
+  }
+
+  a.lnk_2:visited {
+    color: bisque;
+  }
+  
+  a.lnk_2:hover {
+    color: indigo;
+  }
+  
+  a.lnk_2:active {
+    color: olive;
+  }
+
+  a.lnk_3:link, a.lnk_3:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a.lnk_3:hover, a.lnk_3:active {
+    background-color: red;
+  }
+
+  a.lnk_4:link, a.lnk_4:visited {
+    background-color: blueviolet;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+  }
+  
+  a.lnk_4:hover, a.lnk_4:active {
+    background-color: rgb(41, 37, 37);
+  }
+
+  a.lnk_5:link, a.lnk_5:visited {
+    background-color: lightpink;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+  }
+  
+  a.lnk_5:hover, a.lnk_5:active {
+    background-color: rgb(85, 192, 75);
+  }
