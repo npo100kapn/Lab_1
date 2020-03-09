@@ -177,3 +177,28 @@ body {
   a.lnk_5:hover, a.lnk_5:active {
     background-color: rgb(85, 192, 75);
   }
+
+  ol.b {
+    background: #ff9999;
+    padding: 20px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+  }
+
+  
+  li a {
+    display: block;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111111;
+  }
