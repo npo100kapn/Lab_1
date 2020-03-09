@@ -202,3 +202,16 @@ body {
   li a:hover {
     background-color: #111111;
   }
+
+  img {
+    max-width: 200%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  img.a{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%
+  }
